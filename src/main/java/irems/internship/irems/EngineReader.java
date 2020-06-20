@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class EngineReader {
     public List<Engine> readEngines() throws IOException {
-        File myObj = new File("/Users/petru/Documents/engines.txt");
+        File myObj = new File("engines.txt");
         Scanner myReader = new Scanner(myObj);
         List<Engine> engineList = new ArrayList<>();
         while (myReader.hasNextLine()) {

@@ -1,0 +1,2 @@
+diesel|Griffon|350|Rolls Royce|1946|130|150
+gas|Octavia|1500|Skoda|2005|90|50
